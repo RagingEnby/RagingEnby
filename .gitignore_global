@@ -251,7 +251,6 @@ fabric.properties
 
 # PyPI configuration file
 .pypirc
->>>>>>> cd21967 (Initial commit)
 
 # Replit
 replit.nix
